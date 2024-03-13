@@ -50,9 +50,7 @@ public class MatrixProgram {
             System.out.println();
             }
 
-      //  int temp = array2DOriginal[i][j];
-     //   array2DOriginal[i][j] = array2DTransported[j][i];
-     //   array2DTransported[j][i] = temp;
+
 
 
 
